@@ -1,0 +1,11 @@
+{
+  "name": "dvf-js",
+  "version": "1.0.0",
+  "description": "This is the DVF script for RP verfication in APRSSO system.",
+  "main": "verify.js",
+  "scripts": {
+    "build": "npx webpack --config webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
