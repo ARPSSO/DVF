@@ -6,7 +6,7 @@
   <p align="center">
     A trusted third-party script responsible for RP verification through the browser's front channel in ARPSSO. 
     <br />
-    <a href="https://arpsso.live/"><strong>View ARPSSO Demo »</strong></a>
+    <a href="https://arpsso.hejunlin.cn"><strong>View ARPSSO Demo »</strong></a>
   </p>
 </div>
 
